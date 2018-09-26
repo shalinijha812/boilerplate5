@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56aa406d-cfef-4d05-9e07-9f945c3153da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/DataTypeDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/DataTypeDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/Filter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/Header.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/Header.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/Query.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/Query.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/AggregateFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/AggregateFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/QueryParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/QueryParameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/QueryParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/QueryParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/Restriction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/Restriction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/datamunger/reader/CsvQueryProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/datamunger/reader/CsvQueryProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/datamunger/reader/QueryProcessingEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/datamunger/reader/QueryProcessingEngine.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-108601123">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="3" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="4" />
+          <entry key="java" value="60" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="60" />
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="10825" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="10825" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/query/Filter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/query/DataTypeDefinitions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/reader/CsvQueryProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="185" column="66" selection-start-line="185" selection-start-column="66" selection-end-line="185" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/query/Header.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/QueryParameter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="885">
+              <caret line="74" column="60" selection-start-line="74" selection-start-column="34" selection-end-line="74" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/QueryParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3270">
+              <caret line="219" column="138" selection-start-line="219" selection-start-column="138" selection-end-line="219" selection-end-column="138" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/test/DataMungerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13005">
+              <caret line="889" column="128" selection-start-line="889" selection-start-column="128" selection-end-line="889" selection-end-column="128" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/reader/QueryProcessingEngine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/ipl.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/Restriction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/QueryParameter.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/AggregateFunction.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/datamunger/query/Header.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/datamunger/query/Query.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/datamunger/reader/QueryProcessingEngine.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/datamunger/query/DataTypeDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/datamunger/query/Filter.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/QueryParser.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/datamunger/reader/CsvQueryProcessor.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="DataMungerStep5_Boilerplate" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="75" />
+    <option name="y" value="44" />
+    <option name="width" value="1281" />
+    <option name="height" value="704" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DataMungerStep5_Boilerplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataMungerStep5_Boilerplate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataMungerStep5_Boilerplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataMungerStep5_Boilerplate" type="462c0819:PsiDirectoryNode" />
+              <item name=".settings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataMungerStep5_Boilerplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataMungerStep5_Boilerplate" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataMungerStep5_Boilerplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataMungerStep5_Boilerplate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataMungerStep5_Boilerplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataMungerStep5_Boilerplate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="datamunger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataMungerStep5_Boilerplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataMungerStep5_Boilerplate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="datamunger" type="462c0819:PsiDirectoryNode" />
+              <item name="query" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataMungerStep5_Boilerplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataMungerStep5_Boilerplate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="datamunger" type="462c0819:PsiDirectoryNode" />
+              <item name="query" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataMungerStep5_Boilerplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataMungerStep5_Boilerplate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="datamunger" type="462c0819:PsiDirectoryNode" />
+              <item name="reader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataMungerStep5_Boilerplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataMungerStep5_Boilerplate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="datamunger" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataMungerStep5_Boilerplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataMungerStep5_Boilerplate" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537946769433" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.DataMungerTest">
+    <configuration name="DataMungerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataMungerStep5_Boilerplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.datamunger.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.datamunger.test" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.datamunger.test.DataMungerTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataMungerTest.testWithWhereEqualAndNotEqualClause" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataMungerStep5_Boilerplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.datamunger.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.datamunger.test" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.datamunger.test.DataMungerTest" />
+      <option name="METHOD_NAME" value="testWithWhereEqualAndNotEqualClause" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataMungerTest.testWithWhereLessThanOrEqualToClause" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataMungerStep5_Boilerplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.datamunger.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.datamunger.test" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.datamunger.test.DataMungerTest" />
+      <option name="METHOD_NAME" value="testWithWhereLessThanOrEqualToClause" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataMungerTest.testWithWhereNotEqualToClause" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataMungerStep5_Boilerplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.datamunger.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.datamunger.test" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.datamunger.test.DataMungerTest" />
+      <option name="METHOD_NAME" value="testWithWhereNotEqualToClause" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataMungerTest.testWithWhereTwoConditionsEqualOrNotEqualClause" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataMungerStep5_Boilerplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.datamunger.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.datamunger.test" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.datamunger.test.DataMungerTest" />
+      <option name="METHOD_NAME" value="testWithWhereTwoConditionsEqualOrNotEqualClause" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DataMungerTest" />
+      <item itemvalue="JUnit.DataMungerTest.testWithWhereEqualAndNotEqualClause" />
+      <item itemvalue="JUnit.DataMungerTest.testWithWhereLessThanOrEqualToClause" />
+      <item itemvalue="JUnit.DataMungerTest.testWithWhereNotEqualToClause" />
+      <item itemvalue="JUnit.DataMungerTest.testWithWhereTwoConditionsEqualOrNotEqualClause" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DataMungerTest" />
+        <item itemvalue="JUnit.DataMungerTest.testWithWhereEqualAndNotEqualClause" />
+        <item itemvalue="JUnit.DataMungerTest.testWithWhereTwoConditionsEqualOrNotEqualClause" />
+        <item itemvalue="JUnit.DataMungerTest.testWithWhereNotEqualToClause" />
+        <item itemvalue="JUnit.DataMungerTest.testWithWhereLessThanOrEqualToClause" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56aa406d-cfef-4d05-9e07-9f945c3153da" name="Default Changelist" comment="" />
+      <created>1537460738841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537460738841</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DataMungerTest_testWithWhereTwoConditionsEqualOrNotEqualClause - 2018.09.25 at 19h 49m 37s.xml">
+      <configuration name="DataMungerTest.testWithWhereTwoConditionsEqualOrNotEqualClause" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataMungerTest - 2018.09.25 at 19h 53m 49s.xml">
+      <configuration name="DataMungerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataMungerTest - 2018.09.25 at 19h 55m 51s.xml">
+      <configuration name="DataMungerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataMungerTest - 2018.09.26 at 12h 41m 47s.xml">
+      <configuration name="DataMungerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataMungerTest_testWithWhereEqualAndNotEqualClause - 2018.09.26 at 12h 42m 46s.xml">
+      <configuration name="DataMungerTest.testWithWhereEqualAndNotEqualClause" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataMungerTest_testWithWhereEqualAndNotEqualClause - 2018.09.26 at 12h 43m 32s.xml">
+      <configuration name="DataMungerTest.testWithWhereEqualAndNotEqualClause" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataMungerTest_testWithWhereEqualAndNotEqualClause - 2018.09.26 at 12h 46m 06s.xml">
+      <configuration name="DataMungerTest.testWithWhereEqualAndNotEqualClause" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataMungerTest_testWithWhereEqualAndNotEqualClause - 2018.09.26 at 12h 48m 23s.xml">
+      <configuration name="DataMungerTest.testWithWhereEqualAndNotEqualClause" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataMungerTest_testWithWhereEqualAndNotEqualClause - 2018.09.26 at 12h 49m 24s.xml">
+      <configuration name="DataMungerTest.testWithWhereEqualAndNotEqualClause" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataMungerTest_testWithWhereEqualAndNotEqualClause - 2018.09.26 at 12h 50m 58s.xml">
+      <configuration name="DataMungerTest.testWithWhereEqualAndNotEqualClause" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29960158" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36801243" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.08074534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32919255" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32919255" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.0" />
+      <window_info anchor="right" id="Ant Build" order="7" visible="true" weight="0.02629482" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/QueryParameter.java</url>
+          <line>13</line>
+          <properties field="aggregateFunctions" class="com.stackroute.datamunger.query.parser.QueryParameter" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/AggregateFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/query/RowDataTypeDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/query/DataSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/query/Row.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/query/Query.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-10-oracle/lib/src.zip!/java.base/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/query/DataTypeDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/query/Header.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/QueryParameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="74" column="60" selection-start-line="74" selection-start-column="34" selection-end-line="74" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/QueryParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3270">
+          <caret line="219" column="138" selection-start-line="219" selection-start-column="138" selection-end-line="219" selection-end-column="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/test/DataMungerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13005">
+          <caret line="889" column="128" selection-start-line="889" selection-start-column="128" selection-end-line="889" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/reader/QueryProcessingEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ipl.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/Restriction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/query/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/reader/CsvQueryProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="185" column="66" selection-start-line="185" selection-start-column="66" selection-end-line="185" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

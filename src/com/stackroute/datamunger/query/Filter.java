@@ -1,5 +1,9 @@
 package com.stackroute.datamunger.query;
 
+import com.stackroute.datamunger.query.parser.Restriction;
+
+import java.util.List;
+
 //This class contains methods to evaluate expressions
 public class Filter {
 	
@@ -13,12 +17,63 @@ public class Filter {
 	 * 
 	 */
 	
-	
+	public boolean evaluate(String value1,String value2,String condition,String dataType)
+	{
+
+		if(dataType.equals("java.lang.Integer")){
+			if(condition.equals("=")){
+				return (Integer.parseInt(value1)==Integer.parseInt(value2));
+			}
+			if(condition.equals(">")){
+				return (Integer.parseInt(value1)>Integer.parseInt(value2));
+			}
+			if(condition.equals("<")){
+				return (Integer.parseInt(value1)<Integer.parseInt(value2));
+			}
+			if(condition.equals("!=")){
+				return (Integer.parseInt(value1)!=Integer.parseInt(value2));
+			}
+			if(condition.equals(">=")){
+				return (Integer.parseInt(value1)>=Integer.parseInt(value2));
+			}
+			if(condition.equals("<=")){
+				return (Integer.parseInt(value1)<=Integer.parseInt(value2));
+			}
+		}
+		if(dataType.equals("java.lang.Float")){
+			if(condition.equals("=")){
+				return (Double.parseDouble(value1)==Double.parseDouble(value2));
+			}
+			if(condition.equals(">")){
+				return (Double.parseDouble(value1)>Double.parseDouble(value2));
+			}
+			if(condition.equals("<")){
+				return (Double.parseDouble(value1)<Double.parseDouble(value2));
+			}
+			if(condition.equals("!=")){
+				return (Double.parseDouble(value1)!=Double.parseDouble(value2));
+			}
+			if(condition.equals(">=")){
+				return (Double.parseDouble(value1)>=Double.parseDouble(value2));
+			}
+			if(condition.equals("<=")){
+				return (Double.parseDouble(value1)<=Double.parseDouble(value2));
+			}
+		}
+		if(condition.equals("=")){
+			return value1.equalsIgnoreCase(value2);
+		}
+		else if(condition.equals("!="))
+			return !value1.equalsIgnoreCase(value2);
+		return false;                                                                        // check@TestCases
+	}
+
 	
 	
 	
 	
 	//Method containing implementation of equalTo operator
+
 	
 	
 	
