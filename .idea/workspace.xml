@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56aa406d-cfef-4d05-9e07-9f945c3153da" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/DataTypeDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/DataTypeDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/Filter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/Header.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/Header.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/Query.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/Query.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/AggregateFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/AggregateFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/QueryParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/QueryParameter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/QueryParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/QueryParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/Restriction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/datamunger/query/parser/Restriction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stackroute/datamunger/reader/CsvQueryProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/datamunger/reader/CsvQueryProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stackroute/datamunger/reader/QueryProcessingEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/datamunger/reader/QueryProcessingEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,7 +80,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/reader/CsvQueryProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="2775">
               <caret line="185" column="66" selection-start-line="185" selection-start-column="66" selection-end-line="185" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -276,7 +267,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537946769433" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537947715937" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -400,18 +391,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DataMungerTest_testWithWhereTwoConditionsEqualOrNotEqualClause - 2018.09.25 at 19h 49m 37s.xml">
-      <configuration name="DataMungerTest.testWithWhereTwoConditionsEqualOrNotEqualClause" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DataMungerTest - 2018.09.25 at 19h 53m 49s.xml">
-      <configuration name="DataMungerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DataMungerTest - 2018.09.25 at 19h 55m 51s.xml">
-      <configuration name="DataMungerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DataMungerTest - 2018.09.26 at 12h 41m 47s.xml">
-      <configuration name="DataMungerTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DataMungerTest_testWithWhereEqualAndNotEqualClause - 2018.09.26 at 12h 42m 46s.xml">
       <configuration name="DataMungerTest.testWithWhereEqualAndNotEqualClause" configurationId="JUnit" />
     </history-entry>
@@ -430,6 +409,18 @@
     <history-entry file="DataMungerTest_testWithWhereEqualAndNotEqualClause - 2018.09.26 at 12h 50m 58s.xml">
       <configuration name="DataMungerTest.testWithWhereEqualAndNotEqualClause" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DataMungerTest_testWithWhereEqualAndNotEqualClause - 2018.09.26 at 12h 53m 13s.xml">
+      <configuration name="DataMungerTest.testWithWhereEqualAndNotEqualClause" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataMungerTest_testWithWhereEqualAndNotEqualClause - 2018.09.26 at 12h 53m 42s.xml">
+      <configuration name="DataMungerTest.testWithWhereEqualAndNotEqualClause" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataMungerTest_testWithWhereEqualAndNotEqualClause - 2018.09.26 at 12h 55m 05s.xml">
+      <configuration name="DataMungerTest.testWithWhereEqualAndNotEqualClause" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataMungerTest - 2018.09.26 at 12h 55m 11s.xml">
+      <configuration name="DataMungerTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -443,7 +434,7 @@
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29960158" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29960158" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -452,7 +443,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36801243" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36801243" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.08074534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -604,7 +595,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/reader/CsvQueryProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="2775">
           <caret line="185" column="66" selection-start-line="185" selection-start-column="66" selection-end-line="185" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
